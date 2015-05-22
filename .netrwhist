@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/jonathanphillips/dev/mobile'
-let g:netrw_dirhist_2='/Users/jonathanphillips/.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/gems/shoulda-3.3.2'
-let g:netrw_dirhist_3='/Users/jonathanphillips/.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/gems/shoulda-context-1.0.2'
-let g:netrw_dirhist_4='/Users/jonathanphillips/personal/kareoke'
-let g:netrw_dirhist_5='/Users/jonathanphillips/dev/pipeline'
-let g:netrw_dirhist_6='/Users/jonathanphillips/dev/mobile'
